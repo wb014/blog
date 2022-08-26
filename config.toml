@@ -1,0 +1,5 @@
+baseURL = 'https://wb014.github.io/blog/'
+languageCode = 'zh-cn'
+title = 'Kame Blog'
+theme = "ananke"
+publishDir = 'docs'
