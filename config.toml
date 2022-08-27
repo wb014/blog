@@ -1,0 +1,6 @@
+baseURL = 'https://wb014.github.io/blog/'
+languageCode = 'zh-cn'
+title = 'Blog'
+theme = "ananke"
+publishDir = 'docs'
+
